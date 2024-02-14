@@ -10,7 +10,7 @@ Heavenly Fees: With MoBA, high fees are a thing of the past. We perform miracles
 Apocalyptic Security: Braced for the end of times, our security protocols ensure your assets are safe from the four horsemen of the blockchain apocalypse.
 
 
-##FAQ
+## FAQ
 
 Why MoBA over LiFi or Socket?
 In the beginning, there were blockchains, and it was good. Then came the need for bridges, and it was chaotic. MoBA was sent from the digital hell to bring order, offering more bandwidth than LiFi could dream of and making Socket look like a dial-up connection from the 90s.
