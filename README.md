@@ -19,7 +19,7 @@ Can I truly bridge any asset?
 Yes, my MFKR. Whether it's Bitcoin, Ethereum, or your grandmother's secret lasagna recipe, MoBA can bridge it. Our patented "Transubstantiation Protocol" ensures that what goes in, must come out – on another blockchain not like socket that went to shithole.
 
 Prophetic Support
-Got questions? Lost in the wilderness? Our demon slayers are available 24/7 in the Discord Channel for guidance, confession, and the occasional blockchain miracle.
+Got questions? Lost in the wilderness? Our demon slayers are available 24/7 in the Discord Channel https://discord.gg/xvdHnvTn for guidance, confession, and the occasional blockchain miracle.
 
 Join The Cult
 Ready to ascend? Follow us on Twitter, Telegram, and Medium for the latest revelations, updates, and prophecies.
